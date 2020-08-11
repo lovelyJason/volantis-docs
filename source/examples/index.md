@@ -59,6 +59,11 @@ links:
       url: https://yzweb.gitee.io/
       avatar: https://i.loli.net/2020/08/10/1gQWoiIP6SYVej4.jpg
       tags: [Java]
+    - name: 前端ovo
+      url: https://qdovo.com
+      avatar: https://i.loli.net/2020/08/11/u7UOqB4yMleImYP.jpg
+      tags: [前端 折腾攻城狮]
+
   - group: '版本：^2.5～2.6'
     desc: 新增 Group、References 组件；新增 Checkbox、Radio、Image、Video 等标签
     items:
